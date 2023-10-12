@@ -1,5 +1,5 @@
 # IntroPythonApps
-## Beginner Python projects: ATM, grocery list, pattern search, rental car billing
+### Beginner Python projects: ATM, grocery list, pattern search, rental car billing
 IT 140 | October 2020
 
 ### ATM
