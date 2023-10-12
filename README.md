@@ -1,4 +1,4 @@
-# IntroPythonApps
+# Python App Samples
 ### IT 140 | October 2020
 Beginner Python projects: ATM, grocery list, pattern search, rental car billing
 
